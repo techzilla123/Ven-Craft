@@ -1,4 +1,5 @@
 import { useState, useRef, useEffect } from "react";
+
 import svgPaths from "../src/imports/DigitalMarketingAgency/svg-swobmmaix0";
 import { imgRectangle2, imgRectangle3, imgRectangle23804, imgImage61 } from "../src/imports/DigitalMarketingAgency/svg-fwr5h";
 import imgHeroPhoto from "../src/imports/DigitalMarketingAgency/fcf2279665e23b3946c9c6fe67a4fbc9dc7d7618.png";
